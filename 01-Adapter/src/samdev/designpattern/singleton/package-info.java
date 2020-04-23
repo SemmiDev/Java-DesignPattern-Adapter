@@ -1,0 +1,1 @@
+package samdev.designpattern.singleton;
